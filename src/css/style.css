@@ -1,3 +1,11 @@
 body {
-  background-color: blue;
+  margin: 0;
+}
+
+div {
+  background-color: #cf56a1;
+}
+
+h1 {
+  margin: 0;
 }
