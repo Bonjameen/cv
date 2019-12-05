@@ -38,6 +38,11 @@ hr {
   width: 10%
 }
 
+.intro {
+  width: 60%;
+  margin: auto;
+}
+
 .bottom-cloud {
   position: absolute;
   left: 300px;
